@@ -1,0 +1,9 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/screens.rpy", line 597: is not terminated with a newline. (Check strings and parenthesis.)
+        default page_name_value = FilePageNameInputValue(pattern=_("Page {}")
+
+Ren'Py Version: Ren'Py 6.99.14.3.3347
+Thu May 31 08:54:02 2018
